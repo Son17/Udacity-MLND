@@ -1,6 +1,7 @@
 # Machine Learning Engineer Nanodegree
+#Capstone Project
 
-## Capstone Proposal
+In this project, the Lending Club dataset will be used to predict the probability of "good loans" and "bad loans".
 
 The Lending Club dataset can be downloaded from:
 https://www.kaggle.com/wendykan/lending-club-loan-data
